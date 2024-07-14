@@ -1,0 +1,4 @@
+echo "Hello World"
+whoami
+pwd
+touch sample.txt
